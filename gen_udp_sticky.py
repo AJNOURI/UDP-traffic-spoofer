@@ -5,6 +5,7 @@ from scapy.all import *
 import time
 import Queue
 
+# (2014) AJ NOURI  ajn.bin@gmail.com
 
 dsthost = '66.66.66.66'
 
