@@ -1,4 +1,4 @@
-traffic-generator
+UDP traffic spoofer
 =================
 
 ## Gen-udp-sticky.py
